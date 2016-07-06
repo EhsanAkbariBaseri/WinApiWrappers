@@ -11,7 +11,7 @@ or if you have placed it in another directory replace L<directory> with L.
 
 #Please Note : I recommend you to use the static library becuase this library is very lightweight and it won't alter the size of the executable much
 
-Currently I have worked on wrapping File Mangement functions and it will be thanked if you helped and cooperated with me.
+Currently I have worked on wrapping File Mangement functions and it will be thanked if you helped and cooperated with me on Registery Management one.
 
 Hope it helps in your projects :)
 
